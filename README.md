@@ -5,10 +5,6 @@
 <h4>Programming Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-</p>
-
-<h4>Programming Languages</h4>
-<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -58,6 +54,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gonzaloamadio&repo=bash-scripts)](https://github.com/gonzaloamadio/bash-scripts)
 
 ## Languages most used in this GH
+
+No repos are excluded, so forked repositories are taken into account as well.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzaloamadio&layout=compact)](https://github.com/gonzaloamadio/github-readme-stats)
 
